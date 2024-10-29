@@ -145,7 +145,7 @@ const page = () => {
             <tbody>
               <tr>
                 <th>2009-2010 </th>
-                <td>Bachelor's of Art from Karachi University (2nd Division)</td>
+                <td>Bachelors of Art from Karachi University (2nd Division)</td>
               </tr>
             </tbody>
           </table>
