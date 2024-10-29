@@ -163,6 +163,25 @@ li{
     h3{
         font-size: 12px;
     }
+    .start-section {
+        width: 85%;
+        height: 90px;
+        font-style: oblique;
+        font-size: small;
+        padding: 0px;
+        margin: 0px;
+        background-color: orange;
+
+    }
+    .start-section h2{
+        padding-top: 10px;
+        margin-top: 5px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        font-weight: 1200;
+    }
+ 
+        
    .main{
     display: flex;
     flex-direction: column;
@@ -179,12 +198,7 @@ li{
         background-color: none;
        margin-left: 40%;
     }
-    .start-section{
-        font-size: small;
-        padding: 10px;
-        margin: 10px;
-        background-color: orange;
-    }
+   
     .skillss li{
         list-style: none;
         padding-left: 20px;
