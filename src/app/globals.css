@@ -307,7 +307,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 100%;
-    text-align: ;
+    text-align: left;
 }
 /* .sidebar{
     transform: translate(-443px,0px);
