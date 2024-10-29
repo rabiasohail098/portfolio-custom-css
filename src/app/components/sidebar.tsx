@@ -3,7 +3,7 @@ import Link from 'next/link'
 const Sidebar = () => {
   return (
     <div className='nav'>
-      <div>
+      <div className='logo'>
         <h1>RSK ZAI</h1>
       </div>
       <div>
